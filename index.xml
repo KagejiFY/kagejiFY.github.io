@@ -1,0 +1,35 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>太阳系宇宙空间站</title>
+    <link>http://kagejiFY.github.io/</link>
+    <description>Recent content on 太阳系宇宙空间站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>晷影 since 2023.</copyright>
+    <lastBuildDate>Tue, 14 Nov 2023 21:18:26 +1100</lastBuildDate>
+    
+        <atom:link href="http://kagejiFY.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Build Diary</title>
+        <link>http://kagejiFY.github.io/post/build-diary/</link>
+        <pubDate>Tue, 14 Nov 2023 21:18:26 +1100</pubDate>
+        
+        <guid>http://kagejiFY.github.io/post/build-diary/</guid>
+        <description>太阳系宇宙空间站 http://kagejiFY.github.io/post/build-diary/ -&lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;aaa&lt;/li&gt;
+&lt;li&gt;bbb&lt;/li&gt;
+&lt;li&gt;ccc&lt;/li&gt;
+&lt;/ol&gt;
+- http://kagejiFY.github.io/post/build-diary/ - 晷影 since 2023.</description>
+        </item>
+    
+    
+    
+    
+  </channel>
+</rss> 
